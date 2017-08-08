@@ -1,0 +1,14 @@
+.gfont{
+  font-family: 'Product Sans', Arial, sans-serif;
+}
+.text-teal{
+  color:#009688;
+  -webkit-transition-duration: .5s;
+ transition-duration: .5s;
+}
+.text-teal:hover{
+  color: #f06292;
+}
+.linkhover:hover{
+  color:#009688;
+}
